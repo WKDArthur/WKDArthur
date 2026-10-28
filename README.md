@@ -6,7 +6,7 @@
 - CSS 
 
 ## Ferramentas/Tools
-- VSCode 
+- Git/GitHub 
 - VisualStudio
 
 ## Procura/Looking for
