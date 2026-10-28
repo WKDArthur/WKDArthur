@@ -1,16 +1,16 @@
-## Hi there 👋
+## Arthur Flores Schoenau ##
 
-<!--
-**WKDArthur/WKDArthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Front-End
+- JavaScript  ![JavaScript](https://shields.io)
+- HTML  ![HTML5](https://shields.io)
+- CSS  ![CSS3](https://shields.io)
 
-Here are some ideas to get you started:
+## Back-End
+- Python ![Python](https://shields.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+- VSCode
+- VisualStudio
+
+## Procura
+- Estágio para aprofundar conhecimento e ganhar experiência na área
