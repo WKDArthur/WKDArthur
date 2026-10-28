@@ -14,5 +14,4 @@
 
 ## Contato/Contact
 - Localização: Santa Maria, Rio Grande do Sul, Brasil
-- LinkedIn: [arthur-flores-schoenau-b01180387](www.linkedin.com/in/arthur-flores-schoenau-b01180387)
 - Email: [a.f.schoenau@hotmail.com](mailto:a.f.schoenau@hotmail.com)
