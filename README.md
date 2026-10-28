@@ -9,7 +9,7 @@
 - VSCode 
 - VisualStudio
 
-## Searching/Procura
+## Procura/Looking for
 **Estágio** para aprofundar conhecimento e ganhar experiência na área
 
 ## Contato/Contact
