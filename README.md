@@ -8,14 +8,16 @@
 ## Back-End
 * **Python** ![Python](https://shields.io)
 
-## Tools
+## Ferramentas/Tools
 * **VSCode** ![Visual Studio Code](https://shields.io)
 * **VisualStudio** ![Visual Studio](https://shields.io)
 
-## Procura
-* **Estágio** para aprofundar conhecimento e ganhar experiência na área ![Estágio](https://shields.io)
+## Searching/Procura
+* **Estágio** para aprofundar conhecimento e ganhar experiência na área
 
-## 📬 Contato / Contact
+## Contato/Contact
 Localização: Santa Maria, Rio Grande do Sul, Brasil
+
 [![LinkedIn](https://shields.io)](www.linkedin.com/in/arthur-flores-schoenau-b01180387)
+
 [![Email](https://shields.io)](mailto:a.f.schoenau@hotmail.com )
