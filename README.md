@@ -18,6 +18,6 @@
 ## Contato/Contact
 Localização: Santa Maria, Rio Grande do Sul, Brasil
 
-[![LinkedIn](https://shields.io)](www.linkedin.com/in/arthur-flores-schoenau-b01180387)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 
-[![Email](https://shields.io)](mailto:a.f.schoenau@hotmail.com )
+[![Email](https://shields.io)](mailto:a.f.schoenau@hotmail.com)
