@@ -1,16 +1,21 @@
 ## Arthur Flores Schoenau ##
 
 ## Front-End
-- JavaScript  ![JavaScript](https://shields.io)
-- HTML  ![HTML5](https://shields.io)
-- CSS  ![CSS3](https://shields.io)
+* **JavaScript** ![JavaScript](https://shields.io)
+* **HTML** ![HTML5](https://shields.io)
+* **CSS** ![CSS3](https://shields.io)
 
 ## Back-End
-- Python ![Python](https://shields.io)
+* **Python** ![Python](https://shields.io)
 
 ## Tools
-- VSCode
-- VisualStudio
+* **VSCode** ![Visual Studio Code](https://shields.io)
+* **VisualStudio** ![Visual Studio](https://shields.io)
 
 ## Procura
-- Estágio para aprofundar conhecimento e ganhar experiência na área
+* **Estágio** para aprofundar conhecimento e ganhar experiência na área ![Estágio](https://shields.io)
+
+## 📬 Contato / Contact
+Localização: Santa Maria, Rio Grande do Sul, Brasil
+[![LinkedIn](https://shields.io)](www.linkedin.com/in/arthur-flores-schoenau-b01180387)
+[![Email](https://shields.io)](mailto:a.f.schoenau@hotmail.com )
